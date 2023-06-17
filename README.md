@@ -9,3 +9,7 @@ The Laravel 10 Starter Template with SweetAlert and Yajra DataTables is a concis
 ## Laravel Sweet Alert
 
 ## Laravel Yajra DataTables
+
+## Push Notification
+
+## Recaptcha
